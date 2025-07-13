@@ -1,1 +1,0 @@
-#Solving a quadratic equation
